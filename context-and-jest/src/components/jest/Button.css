@@ -1,0 +1,8 @@
+
+.button-style{
+  display: flex;
+  justify-content: center;
+  border: 1px solid grey;
+  padding: 10px;
+}
+
